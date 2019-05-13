@@ -6,8 +6,7 @@ using namespace std;
 
 int main()
 {
-	int x,y,z,arr1[y],arr2[y],arr3[y],sum,arr4[x]
-       	,day,a,b,c,d,num[b];
+	int x,y,z,arr1[y],arr2[y],arr3[y],sum,arr4[x];
  
 	cout<<"Enter the temperature each day of the week for Provinces A,B and C. \n";
 	
